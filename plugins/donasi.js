@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 
 ┌─「 Donasi • Pulsa 」
 │ • *Tri:* [089636219593]
-| •
+| ini Untuk Pulsa Ya:)
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
