@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
 
 ┌─「 Donasi • Pulsa 」
-│ • *Tri-3:* [089636219593]
+│ • *Tri:* [089636219593]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
@@ -9,7 +9,6 @@ let handler = async m => m.reply(`
 │ • *Dana:* [0895347198105]
 │ Terima Kasih Atas Donasinya :) Semoga Sehat Selalu Yahh ♡
 ❏────
-
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
