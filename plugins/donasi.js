@@ -15,6 +15,8 @@ let handler = async m => m.reply(`
 
 
 
+         
+        「 Arif OFC あ⁩ 」
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
