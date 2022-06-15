@@ -36,7 +36,7 @@ wa.me/${owner[0]}
   products:[{productId:'7487741964584083'}]}],
   headerImage: { productId: '7487741964584083',
   jpegThumbnail: baper },
-  businessOwnerJid: `6289654360447@s.whatsapp.net`
+  businessOwnerJid: `62895347198105@s.whatsapp.net`
   },
   footerText: 'https://aiinne.github.io',
   }},{})
