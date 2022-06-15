@@ -13,9 +13,7 @@ let handler = async m => m.reply(`
 │  Semoga Sehat Selalu Yahh ♡
 ❏────
 
-
-
-         
+        
         「 Arif OFC あ⁩ 」
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
